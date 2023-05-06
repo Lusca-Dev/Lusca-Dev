@@ -1,5 +1,6 @@
-###
+### Eai! Eu sou o Lucas Araújo
 
+##
 <div>
   <a href="https://github.com/Lusca-Dev">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lusca-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
