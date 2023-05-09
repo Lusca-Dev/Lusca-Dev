@@ -1,11 +1,7 @@
 ### Eai! Eu sou o Lucas Araújo
 
 ##
-<div>
-  <a href="https://github.com/Lusca-Dev">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lusca-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusca-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 <div style = "display: inline_block"><br>
   <img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
