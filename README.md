@@ -1,5 +1,3 @@
-### Eai! Eu sou o Lucas Araújo
-
 ## Olá, sou o Lucas!
 Desde cedo, a tecnologia sempre despertou minha curiosidade. Natural do Ceará, iniciei minha jornada no mundo tech durante o ensino médio, quando tive a oportunidade de cursar Técnico em Redes de Computadores na EEEP Maria Eudes Veras. Foi ali que descobri minha afinidade com sistemas, conexões e tudo que envolve inovação.
 Sou movido pela vontade de entender como as coisas funcionam e como posso usar o conhecimento para criar soluções inteligentes. A cada nova descoberta, mais me apaixono por esse universo em constante transformação. Estou sempre em busca de aprender, crescer e contribuir com ideias que façam a diferença. 💡💻
